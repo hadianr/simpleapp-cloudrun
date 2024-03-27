@@ -1,0 +1,17 @@
+{
+  "name": "simple-app-cloudrun",
+  "version": "1.0.0",
+  "description": "this is simple project for deployment using cloudrun with github action",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cloudrun"
+  ],
+  "author": "hadian.rahmat@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
