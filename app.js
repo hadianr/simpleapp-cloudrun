@@ -13,7 +13,9 @@ const users = [
   { id: 5, name: 'Jay Idzes', email: 'jay@gmail.com' },
   { id: 6, name: 'Ramadhan Sananta', email: 'sananta@gmail.com'},
   { id: 7, name: 'Ernando Ari', email: 'ernando@gmail.com' },
-  { id: 8, name: 'Nathan Tjoe An', email: 'nathan@gmail.com' }
+  { id: 8, name: 'Nathan Tjoe An', email: 'nathan@gmail.com' },
+  { id: 9, name: 'Sandy Walsh', email: 'sandy@gmail.com' }
+
 ];
 
 // Define a route for fetching all users
